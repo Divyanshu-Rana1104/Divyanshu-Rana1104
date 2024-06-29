@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Rana</h1>
- A passionate frontend developer from India <img src="https://user-images.githubusercontent.com/74038190/216656999-c53f8286-1ed5-4dc0-9c4d-165b9dd4a89d.gif" width="50" style="display: 
+<span style="display: inline;">A passionate frontend developer from India</span> <img src="https://user-images.githubusercontent.com/74038190/216656999-c53f8286-1ed5-4dc0-9c4d-165b9dd4a89d.gif" width="50" style="display: inline;">
+
 
 
 <h3 align="left">Connect with me:</h3>
